@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="SuiteName">
+    <test name="TestName">
+        <classes>
+            <class name="com.infosys.owt.api.ApiTest"/>
+        </classes>
+    </test>
+</suite>

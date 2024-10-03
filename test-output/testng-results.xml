@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-03T14:53:53 IST" name="SuiteName" finished-at="2024-10-03T14:53:56 IST" duration-ms="3089">
+    <groups>
+    </groups>
+    <test started-at="2024-10-03T14:53:53 IST" name="TestName" finished-at="2024-10-03T14:53:56 IST" duration-ms="3089">
+      <class name="com.infosys.owt.api.ApiTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.infosys.owt.api.ApiTest@279ad2e3]" started-at="2024-10-03T14:53:53 IST" name="setup" finished-at="2024-10-03T14:53:53 IST" duration-ms="853" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="addNewDevice()[pri:0, instance:com.infosys.owt.api.ApiTest@279ad2e3]" started-at="2024-10-03T14:53:53 IST" name="addNewDevice" finished-at="2024-10-03T14:53:56 IST" duration-ms="2194" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewDevice -->
+      </class> <!-- com.infosys.owt.api.ApiTest -->
+    </test> <!-- TestName -->
+  </suite> <!-- SuiteName -->
+</testng-results>
